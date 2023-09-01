@@ -1,6 +1,6 @@
 {
     "name": "Gen Regex",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "description": "Generate regex from its description. eg: 'regex a string contains email address'.",
     "author_name": "Kevin Zhang",
     "author_url": "https://github.com/KevinZhang19870314",
