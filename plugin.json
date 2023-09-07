@@ -1,10 +1,10 @@
 {
     "name": "Gen Regex",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "description": "Generate regex from its description. eg: 'regex a string contains email address'.",
     "author_name": "Kevin Zhang",
     "author_url": "https://github.com/KevinZhang19870314",
     "plugin_url": "https://github.com/KevinZhang19870314/gen_regex",
     "tags": "regex, template",
-    "thumb": "https://raw.githubusercontent.com/my_repo_path/gen_regex.png"
+    "thumb": "https://raw.githubusercontent.com/chat-ai-dev/gen_regex/main/gen_regex.png"
 }
